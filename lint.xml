@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="NewApi">
+        <ignore path="src/com/flavienlaurent/discrollview/sample/DiscrollvableGreenLayout.java" />
+        <ignore path="src/com/flavienlaurent/discrollview/sample/DiscrollvableLastLayout.java" />
+        <ignore path="src/com/flavienlaurent/discrollview/sample/DiscrollvablePathLayout.java" />
+        <ignore path="src/com/flavienlaurent/discrollview/sample/DiscrollvablePurpleLayout.java" />
+        <ignore path="src/com/flavienlaurent/discrollview/sample/DiscrollvableRedLayout.java" />
+    </issue>
+</lint>
